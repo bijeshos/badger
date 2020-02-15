@@ -1,2 +1,2 @@
 # Badger
-A repository of reusable Java components and utilities
+A repository for reusable Java components and utilities
