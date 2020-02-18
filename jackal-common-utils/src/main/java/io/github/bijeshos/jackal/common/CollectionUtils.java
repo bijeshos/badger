@@ -1,4 +1,4 @@
-package io.github.bijeshos.badger.common;
+package io.github.bijeshos.jackal.common;
 
 import java.util.Collection;
 import java.util.Map;
