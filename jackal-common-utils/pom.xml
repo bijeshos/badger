@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.github.bijeshos.badger</groupId>
-    <artifactId>badger-common-utils</artifactId>
+    <groupId>io.github.bijeshos.jackal</groupId>
+    <artifactId>jackal-common-utils</artifactId>
     <version>0.1-beta</version>
     <dependencies>
         <dependency>
