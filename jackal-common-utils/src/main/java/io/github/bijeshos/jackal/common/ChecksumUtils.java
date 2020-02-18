@@ -1,4 +1,4 @@
-package io.github.bijeshos.badger.common;
+package io.github.bijeshos.jackal.common;
 
 import java.io.FileInputStream;
 import java.io.IOException;
