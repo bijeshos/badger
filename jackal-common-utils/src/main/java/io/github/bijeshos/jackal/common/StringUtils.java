@@ -1,4 +1,4 @@
-package io.github.bijeshos.badger.common;
+package io.github.bijeshos.jackal.common;
 
 public class StringUtils {
     private static final String COMMENT_PREFIX = "#";
