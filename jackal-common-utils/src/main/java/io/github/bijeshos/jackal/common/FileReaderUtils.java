@@ -1,4 +1,4 @@
-package io.github.bijeshos.badger.common;
+package io.github.bijeshos.jackal.common;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -7,7 +7,7 @@ import java.nio.file.Paths;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import static io.github.bijeshos.badger.common.StringUtils.isNotComment;
+import static io.github.bijeshos.jackal.common.StringUtils.isNotComment;
 
 public class FileReaderUtils {
     public static List<String> readAllLinesExceptComments(String srcPath) throws IOException {
